@@ -1,6 +1,7 @@
 # AWS_Sagemaker_Notebooks & AWS IoT Analytics
 
 The links and docs - 
+
 #### https://github.com/Neelanjan-Goswami/AWS-Sagemaker_-_AWS-IoT-Analytics/blob/master/All%20Links_or_Docs.md
 
 --Courtsey of Psitron Technologies
@@ -10,7 +11,9 @@ The links and docs -
 ## AWS Sagemaker:
 https://www.hackster.io/psitron/personal-protective-body-camera-ppbc-9fc395
 https://aws.amazon.com/blogs/iot/using-aws-iot-for-predictive-maintenance/
+
 #### https://aws.amazon.com/solutions/implementations/predictive-maintenance-using-machine-learning/
+
 https://youtu.be/_TVKa-noVKE
 https://cloud.google.com/blog/products/data-analytics/a-process-for-implementing-industrial-predictive-maintenance-part-ii
 https://docs.aws.amazon.com/sagemaker/latest/dg/cdf-training.html
@@ -38,7 +41,9 @@ https://www.youtube.com/redirect?redir_token=QUFFLUhqbWt0Z29HS3NGcWxNQ3ZGM3I2bGU
 https://in.mathworks.com/help/predmaint/index.html?s_tid=CRUX_lftnav
 https://classeval.wordpress.com/introduction/basic-evaluation-measures/#:~:text=P%20%2B%20N).-,Accuracy,be%20calculated%20by%201%20%E2%80%93%20ERR
 http://systems-sciences.uni-graz.at/etextbook/bigdata/confusionmatrix.html
+
 #### http://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/predictive-maintenance-playbook#business-case-for-predictive-maintenance
+
 https://www.infopulse.com/blog/anomaly-detection-solutions-for-predictive-maintenance-of-industrial-equipment-and-systems/#:~:text=With%20the%20help%20of%20real,merely%20the%20onset%20of%20it
 https://www.crunchmetrics.ai/blog/Is-anomaly-detection-supervised-or-un-supervised/
 https://github.com/ashishpatel26/Predictive_Maintenance_using_Machine-Learning_Microsoft_Casestudy
@@ -59,6 +64,7 @@ https://www.svds.com/getting-started-predictive-maintenance-models/
 https://www.kaggle.com/billstuart/predictive-maintenance-ml-iiot/notebook
 
 #### https://github.com/awslabs/amazon-sagemaker-examples/tree/master/sagemaker_neo_compilation_jobs
+
 https://in.mathworks.com/help/predmaint/ug/similarity-based-remaining-useful-life-estimation.html
 https://blog.bosch-si.com/industry40/industry-4-0-10-use-cases-for-software-in-connected-manufacturing/
 https://blog.bosch-si.com/industry40/industry-4-0-predictive-maintenance-use-cases-in-detail/
@@ -67,7 +73,9 @@ https://aws.amazon.com/blogs/aws/amazon-sagemaker-neo-train-your-machine-learnin
 https://docs.aws.amazon.com/cli/latest/reference/sagemaker/create-compilation-job.html
 https://blog.bigml.com/2016/09/28/logistic-regression-versus-decision-trees/#:~:text=Decision%20Trees%20bisect%20the%20space,the%20space%20exactly%20into%20two.&text=A%20single%20linear%20boundary%20can%20sometimes%20be%20limiting%20for%20Logistic%20Regression
 https://turi.com/learn/userguide/supervised-learning/boosted_trees_classifier.html
+
 #### https://mxnet.apache.org/versions/1.7/api/python/docs/tutorials/packages/gluon/blocks/save_load_params.html
+
 https://github.com/neo-ai/neo-ai-dlr/tree/master/sagemaker-neo-notebooks/edge
 https://github.com/awsdocs/aws-greengrass-developer-guide/blob/main/doc_source/ml-console.md
 https://github.com/awsdocs/aws-greengrass-developer-guide/blob/main/doc_source/ml-dlc-console.md
@@ -76,6 +84,9 @@ https://github.com/awsdocs/aws-greengrass-developer-guide/blob/main/doc_source/w
 https://mxnet.apache.org/versions/1.7/api/python/docs/tutorials/packages/gluon/blocks/save_load_params.html
 
 ## AWS IoT Analyics:
+
+#### https://workshop.industrial-architecture.cloud/setting-up-the-edge-device.html
+
 https://youtu.be/1rLxPOxVJoQ
 https://youtu.be/NOdXRAFEvDo
 https://aws.amazon.com/blogs/iot/perform-protocol-conversion-at-the-edge-with-aws-lambda-and-aws-greengrass/#:~:text=AWS%20Greengrass%20supports%20OPC%2DUA,based%20on%20rules%20you%20define

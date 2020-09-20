@@ -1,3 +1,9 @@
+# AWS_Sagemaker_Notebooks & AWS IoT Analytics
+
+The links and docs - #### https://github.com/Neelanjan-Goswami/AWS-Sagemaker_-_AWS-IoT-Analytics/blob/master/All%20Links_or_Docs.md
+
+--Courtsey of Psitron Technologies
+
 # The documents in:-
 
 ## AWS Sagemaker:
@@ -9,13 +15,16 @@ https://cloud.google.com/blog/products/data-analytics/a-process-for-implementing
 https://docs.aws.amazon.com/sagemaker/latest/dg/cdf-training.html
 https://www.kaggle.com/nafisur/predictive-maintenance-using-lstm-on-sensor-data
 https://www.mdpi.com/2227-7390/6/11/242/pdf
+
 https://www.kaggle.com/learn/data-cleaning
 https://aws.amazon.com/blogs/machine-learning/now-available-in-amazon-sagemaker-deepar-algorithm-for-more-accurate-time-series-forecasting/
 https://www.infoq.com/articles/machine-learning-techniques-predictive-maintenance/
 https://aws.amazon.com/blogs/aws/amazon-sagemaker-neo-train-your-machine-learning-models-once-run-them-anywhere/
+
 https://software-dl.ti.com/processor-sdk-linux/esd/docs/latest/linux/Examples_and_Demos/Application_Demos/PdM_Anomaly_Detection.html pm for dlr
 https://aws.amazon.com/releasenotes/sagemaker-neo-supported-frameworks-and-operators/ neo supported format list
 https://docs.aws.amazon.com/sagemaker/latest/dg/neo-troubleshooting.html neo error list
+
 https://aws.amazon.com/blogs/machine-learning/aws-launches-open-source-neo-ai-project-to-accelerate-ml-deployments-on-edge-devices/
 https://docs.aws.amazon.com/greengrass/latest/developerguide/ml-inference.html
 https://aws.amazon.com/blogs/machine-learning/save-on-inference-costs-by-using-amazon-sagemaker-multi-model-endpoints/
@@ -28,7 +37,7 @@ https://www.youtube.com/redirect?redir_token=QUFFLUhqbWt0Z29HS3NGcWxNQ3ZGM3I2bGU
 https://in.mathworks.com/help/predmaint/index.html?s_tid=CRUX_lftnav
 https://classeval.wordpress.com/introduction/basic-evaluation-measures/#:~:text=P%20%2B%20N).-,Accuracy,be%20calculated%20by%201%20%E2%80%93%20ERR
 http://systems-sciences.uni-graz.at/etextbook/bigdata/confusionmatrix.html
-
+#### http://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/predictive-maintenance-playbook#business-case-for-predictive-maintenance
 https://www.infopulse.com/blog/anomaly-detection-solutions-for-predictive-maintenance-of-industrial-equipment-and-systems/#:~:text=With%20the%20help%20of%20real,merely%20the%20onset%20of%20it
 https://www.crunchmetrics.ai/blog/Is-anomaly-detection-supervised-or-un-supervised/
 https://github.com/ashishpatel26/Predictive_Maintenance_using_Machine-Learning_Microsoft_Casestudy
@@ -57,7 +66,7 @@ https://aws.amazon.com/blogs/aws/amazon-sagemaker-neo-train-your-machine-learnin
 https://docs.aws.amazon.com/cli/latest/reference/sagemaker/create-compilation-job.html
 https://blog.bigml.com/2016/09/28/logistic-regression-versus-decision-trees/#:~:text=Decision%20Trees%20bisect%20the%20space,the%20space%20exactly%20into%20two.&text=A%20single%20linear%20boundary%20can%20sometimes%20be%20limiting%20for%20Logistic%20Regression
 https://turi.com/learn/userguide/supervised-learning/boosted_trees_classifier.html
-
+#### https://mxnet.apache.org/versions/1.7/api/python/docs/tutorials/packages/gluon/blocks/save_load_params.html
 https://github.com/neo-ai/neo-ai-dlr/tree/master/sagemaker-neo-notebooks/edge
 https://github.com/awsdocs/aws-greengrass-developer-guide/blob/main/doc_source/ml-console.md
 https://github.com/awsdocs/aws-greengrass-developer-guide/blob/main/doc_source/ml-dlc-console.md

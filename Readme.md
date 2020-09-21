@@ -91,6 +91,7 @@ https://gluon-ts.mxnet.io/examples/synthetic_data_generation_tutorial/tutorial.h
 https://mxnet.apache.org/versions/1.4.1/tutorials/gluon/hybrid.html
 
 https://discuss.mxnet.apache.org/t/save-cnn-model-architecture-and-params/683/2
+http://mxnet.incubator.apache.org/versions/0.11.0/tutorials/basic/module.html
 
 ## AWS IoT Analyics:
 

@@ -93,6 +93,8 @@ https://mxnet.apache.org/versions/1.4.1/tutorials/gluon/hybrid.html
 https://discuss.mxnet.apache.org/t/save-cnn-model-architecture-and-params/683/2
 http://mxnet.incubator.apache.org/versions/0.11.0/tutorials/basic/module.html
 
+#### https://docs.aws.amazon.com/sagemaker/latest/dg/neo.html
+
 ## AWS IoT Analyics:
 
 #### https://workshop.industrial-architecture.cloud/setting-up-the-edge-device.html

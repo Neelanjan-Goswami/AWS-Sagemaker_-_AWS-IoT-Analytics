@@ -82,6 +82,15 @@ https://github.com/awsdocs/aws-greengrass-developer-guide/blob/main/doc_source/m
 https://github.com/awsdocs/aws-greengrass-developer-guide/blob/main/doc_source/what-is-gg.md#gg-ml-samples
 
 https://mxnet.apache.org/versions/1.7/api/python/docs/tutorials/packages/gluon/blocks/save_load_params.html
+https://sagemaker.readthedocs.io/en/stable/frameworks/mxnet/using_mxnet.html
+https://mxnet.apache.org/versions/1.0.0/api/python/gluon/gluon.html#mxnet.gluon.HybridBlock
+https://mxnet.apache.org/versions/1.7/api/python/docs/_modules/index.html
+
+https://mxnet.apache.org/versions/1.0.0/_modules/mxnet/gluon/block.html#HybridBlock.export
+https://gluon-ts.mxnet.io/examples/synthetic_data_generation_tutorial/tutorial.html
+https://mxnet.apache.org/versions/1.4.1/tutorials/gluon/hybrid.html
+
+https://discuss.mxnet.apache.org/t/save-cnn-model-architecture-and-params/683/2
 
 ## AWS IoT Analyics:
 

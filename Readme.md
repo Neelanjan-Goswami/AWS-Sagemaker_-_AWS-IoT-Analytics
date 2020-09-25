@@ -101,6 +101,13 @@ https://docs.aws.amazon.com/sagemaker/latest/dg/xgboost_hyperparameters.html
 
 #### https://github.com/aws/sagemaker-python-sdk/tree/v1.12.0/src/sagemaker/tensorflow#tensorflow-sagemaker-estimators-and-models
 #### https://github.com/awslabs/amazon-sagemaker-examples/blob/master/sagemaker_neo_compilation_jobs/tensorflow_distributed_mnist/mnist.py
+#### https://github.com/aws/sagemaker-python-sdk/tree/v1.12.0/src/sagemaker/tensorflow#tensorflow-sagemaker-estimators-and-models
+
+https://www.tensorflow.org/api_docs/python/tf/strings/as_string
+https://www.tensorflow.org/api_docs/python/tf/estimator/DNNClassifier
+
+#### https://github.com/awslabs/amazon-sagemaker-examples/blob/master/sagemaker_neo_compilation_jobs/tensorflow_distributed_mnist/mnist.py
+
 
 ## AWS IoT Analyics:
 

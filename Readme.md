@@ -96,6 +96,12 @@ http://mxnet.incubator.apache.org/versions/0.11.0/tutorials/basic/module.html
 #### https://docs.aws.amazon.com/sagemaker/latest/dg/neo.html
 #### https://github.com/NRauschmayr/MUC_Workshop
 
+https://github.com/dmlc/xgboost/blob/master/doc/parameter.rst#id3
+https://docs.aws.amazon.com/sagemaker/latest/dg/xgboost_hyperparameters.html
+
+#### https://github.com/aws/sagemaker-python-sdk/tree/v1.12.0/src/sagemaker/tensorflow#tensorflow-sagemaker-estimators-and-models
+#### https://github.com/awslabs/amazon-sagemaker-examples/blob/master/sagemaker_neo_compilation_jobs/tensorflow_distributed_mnist/mnist.py
+
 ## AWS IoT Analyics:
 
 #### https://workshop.industrial-architecture.cloud/setting-up-the-edge-device.html

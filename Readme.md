@@ -108,6 +108,7 @@ https://www.tensorflow.org/api_docs/python/tf/estimator/DNNClassifier
 
 #### https://github.com/awslabs/amazon-sagemaker-examples/blob/master/sagemaker_neo_compilation_jobs/tensorflow_distributed_mnist/mnist.py
 
+#### https://github.com/aws/sagemaker-python-sdk/tree/master/tests/data/iris
 
 ## AWS IoT Analyics:
 

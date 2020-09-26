@@ -110,6 +110,12 @@ https://www.tensorflow.org/api_docs/python/tf/estimator/DNNClassifier
 
 #### https://github.com/aws/sagemaker-python-sdk/tree/master/tests/data/iris
 
+https://github.com/aws/sagemaker-python-sdk#tensorflow-sagemaker-estimators
+https://docs.aws.amazon.com/sagemaker/latest/dg/neo-troubleshooting.html
+https://www.tensorflow.org/tutorials/load_data/tfrecord
+
+#### https://github.com/archd3sai/Predictive-Maintenance-of-Aircraft-Engine
+
 ## AWS IoT Analyics:
 
 #### https://workshop.industrial-architecture.cloud/setting-up-the-edge-device.html

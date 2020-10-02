@@ -190,7 +190,18 @@ https://docs.aws.amazon.com/greengrass/latest/developerguide/test-comms.html
 https://github.com/aws/aws-iot-device-sdk-python/tree/master/samples/basicPubSub
 https://docs.aws.amazon.com/greengrass/latest/developerguide/gg-device-start.html
 
+#### https://medium.com/@samrastovich/how-to-communicate-with-amazon-sumerian-via-aws-iot-c89b3a25fd
 
+#### https://www.youtube.com/watch?v=4XEY_TgxkEI
+
+https://aws.amazon.com/blogs/iot/collecting-organizing-monitoring-and-analyzing-industrial-data-at-scale-using-aws-iot-sitewise-part-1/
+https://www.kepware.com/en-us/products/kepserverex/
+https://aws.amazon.com/blogs/iot/collecting-organizing-monitoring-and-analyzing-industrial-data-at-scale-using-aws-iot-sitewise-part-2/
+
+https://aws.amazon.com/blogs/iot/collecting-organizing-monitoring-and-analyzing-industrial-data-at-scale-using-aws-iot-sitewise-part-3/
+https://github.com/open62541/open62541/wiki/List-of-Open-Source-OPC-UA-Implementations
+https://docs.inductiveautomation.com/display/DOC80/OPC+UA
+https://www.youtube.com/watch?v=I9RzuJDgbBc
 
 
 

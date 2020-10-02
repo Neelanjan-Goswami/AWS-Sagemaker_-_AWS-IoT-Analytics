@@ -1,5 +1,7 @@
 # AWS_Sagemaker_Notebooks & AWS IoT Analytics
 
+#### https://workshop.industrial-architecture.cloud/overview.html
+
 --Courtsey of Psitron Technologies
 
 ## Documentations of:-

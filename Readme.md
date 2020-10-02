@@ -228,3 +228,6 @@ https://aws.amazon.com/blogs/iot/how-to-install-a-face-recognition-model-at-the-
 https://docs.aws.amazon.com/greengrass/latest/developerguide/what-is-gg.html#ml-runtimes-libs
 https://docs.aws.amazon.com/greengrass/latest/developerguide/ml-inference.html#w7aac22c15c17
 https://docs.aws.amazon.com/greengrass/latest/developerguide/lambda-group-config.html
+
+#### https://youtu.be/uLz46loJaE0
+

@@ -214,11 +214,17 @@ https://docs.aws.amazon.com/greengrass/latest/developerguide/lambda-functions.ht
 https://aws.amazon.com/blogs/iot/how-to-install-a-face-recognition-model-at-the-edge-device-with-aws-iot-greengrass/
 
 Install Wheel
+
 wget https://github.com/samjabrahams/tensorflow-on-raspberry-pi/releases/download/v1.0.1/tensorflow-1.0.1-cp34-cp34m-linux_armv7l.whl
+
 sudo pip install tensorflow-1.0.1-cp34-cp34m-linux_armv7l.whl
+
 sudo pip install mock
-#Install Pip3
+
+Install Pip3
+
 sudo apt install libatlas-base-dev
+
 pip install tensorflow
 
 https://docs.aws.amazon.com/greengrass/latest/developerguide/ml-console.html#install-mxnet

@@ -9,6 +9,9 @@ The links and docs -
 # The documents in:-
 
 ## AWS Sagemaker:
+
+#### https://github.com/aws/amazon-sagemaker-examples
+
 https://www.hackster.io/psitron/personal-protective-body-camera-ppbc-9fc395
 https://aws.amazon.com/blogs/iot/using-aws-iot-for-predictive-maintenance/
 

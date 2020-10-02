@@ -2,9 +2,9 @@
 
 --Courtsey of Psitron Technologies
 
-# The documents in:-
+## Documentations of:-
 
-## AWS Sagemaker:
+### AWS Sagemaker:
 
 #### https://github.com/aws/amazon-sagemaker-examples
 
@@ -150,7 +150,7 @@ https://github.com/awsdocs/amazon-sagemaker-developer-guide/blob/master/doc_sour
 
 
 
-## AWS IoT Analyics:
+### AWS IoT Analyics:
 
 #### https://workshop.industrial-architecture.cloud/setting-up-the-edge-device.html
 

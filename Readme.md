@@ -116,6 +116,37 @@ https://www.tensorflow.org/tutorials/load_data/tfrecord
 
 #### https://github.com/archd3sai/Predictive-Maintenance-of-Aircraft-Engine
 
+https://www.tensorflow.org/tutorials/load_data/tfrecord
+https://docs.aws.amazon.com/sagemaker/latest/dg/neo-troubleshooting.html
+
+#### https://github.com/aws/sagemaker-python-sdk#tensorflow-sagemaker-estimators
+
+#### https://github.com/awslabs/amazon-sagemaker-examples/blob/master/hyperparameter_tuning/keras_bring_your_own/hpo_bring_your_own_keras_container.ipynb
+
+https://github.com/neo-ai/neo-ai-dlr/issues/24
+https://github.com/awsdocs/amazon-sagemaker-developer-guide/blob/master/doc_source/neo-troubleshooting.md
+
+#### https://youtu.be/ay_pTOUcdcE
+
+https://github.com/aws/sagemaker-python-sdk/tree/v1.15.0/src/sagemaker/tensorflow
+https://docs.aws.amazon.com/dlami/latest/devguide/onnx.html
+
+#### https://github.com/awslabs/amazon-sagemaker-examples/tree/master/sagemaker-python-sdk/tensorflow_script_mode_training_and_serving
+
+#### https://docs.aws.amazon.com/sagemaker/latest/dg/tf.html
+
+https://github.com/aws/sagemaker-python-sdk/blob/master/src/sagemaker/model.py
+https://www.tensorflow.org/lite/guide/ops_custom
+https://github.com/tensorflow/tensorflow/issues/11674
+https://github.com/tensorflow/tensorflow/issues/21617
+https://docs.aws.amazon.com/sagemaker/latest/dg/tf.html
+
+#### https://machinelearningmastery.com/xgboost-for-time-series-forecasting/#:~:text=XGBoost%20is%20an%20implementation%20of,model%20for%20time%20series%20forecasting
+
+https://github.com/mayurm23/Big-Data-Project/blob/master/Predictive%20Maintenance%20XGBoost.ipynb
+https://stackoverflow.com/questions/56873573/sagemaker-neo-custom-model-fn-and-predict-fn
+
+
 ## AWS IoT Analyics:
 
 #### https://workshop.industrial-architecture.cloud/setting-up-the-edge-device.html

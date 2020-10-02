@@ -146,6 +146,10 @@ https://docs.aws.amazon.com/sagemaker/latest/dg/tf.html
 https://github.com/mayurm23/Big-Data-Project/blob/master/Predictive%20Maintenance%20XGBoost.ipynb
 https://stackoverflow.com/questions/56873573/sagemaker-neo-custom-model-fn-and-predict-fn
 
+https://github.com/awsdocs/amazon-sagemaker-developer-guide/blob/master/doc_source/neo-deployment-hosting-services-cli.md
+https://github.com/awsdocs/amazon-sagemaker-developer-guide/blob/master/doc_source/neo.md
+
+
 
 ## AWS IoT Analyics:
 
@@ -194,6 +198,7 @@ https://docs.aws.amazon.com/greengrass/latest/developerguide/gg-device-start.htm
 
 #### https://www.youtube.com/watch?v=4XEY_TgxkEI
 
+
 https://aws.amazon.com/blogs/iot/collecting-organizing-monitoring-and-analyzing-industrial-data-at-scale-using-aws-iot-sitewise-part-1/
 https://www.kepware.com/en-us/products/kepserverex/
 https://aws.amazon.com/blogs/iot/collecting-organizing-monitoring-and-analyzing-industrial-data-at-scale-using-aws-iot-sitewise-part-2/
@@ -203,11 +208,25 @@ https://github.com/open62541/open62541/wiki/List-of-Open-Source-OPC-UA-Implement
 https://docs.inductiveautomation.com/display/DOC80/OPC+UA
 https://www.youtube.com/watch?v=I9RzuJDgbBc
 
+https://docs.aws.amazon.com/greengrass/latest/developerguide/ml-console.html#install-mxnet
+https://docs.aws.amazon.com/greengrass/latest/developerguide/ml-console.html#package-ml-model
+https://docs.aws.amazon.com/greengrass/latest/developerguide/gg-core.html#write-directory
+https://docs.aws.amazon.com/greengrass/latest/developerguide/lambda-functions.html
+https://aws.amazon.com/blogs/iot/how-to-install-a-face-recognition-model-at-the-edge-device-with-aws-iot-greengrass/
 
-
-
-
-
-
-
-
+# Install Wheel
+wget https://github.com/samjabrahams/tensorflow-on-raspberry-pi/releases/download/v1.0.1/tensorflow-1.0.1-cp34-cp34m-linux_armv7l.whl
+sudo pip install tensorflow-1.0.1-cp34-cp34m-linux_armv7l.whl
+sudo pip install mock
+#Install Pip3
+sudo apt install libatlas-base-dev
+pip install tensorflow
+In the above use case it’s also shown how to use that with local Lambda function , please ignore other moving parts like Alexa skill you can look at example source code for Lambda function in Git repo mentioned in [3]
+I am attaching these articles for general guidance [4][6] please note there are few limitation’s on Pi [5].
+Please feel free to reach us back if anything.
+https://docs.aws.amazon.com/greengrass/latest/developerguide/ml-console.html#install-mxnet
+https://docs.aws.amazon.com/greengrass/latest/developerguide/ml-console.html#package-ml-model
+https://aws.amazon.com/blogs/iot/how-to-install-a-face-recognition-model-at-the-edge-device-with-aws-iot-greengrass/
+https://docs.aws.amazon.com/greengrass/latest/developerguide/what-is-gg.html#ml-runtimes-libs
+https://docs.aws.amazon.com/greengrass/latest/developerguide/ml-inference.html#w7aac22c15c17
+https://docs.aws.amazon.com/greengrass/latest/developerguide/lambda-group-config.html

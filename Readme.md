@@ -149,7 +149,15 @@ https://stackoverflow.com/questions/56873573/sagemaker-neo-custom-model-fn-and-p
 
 https://github.com/awsdocs/amazon-sagemaker-developer-guide/blob/master/doc_source/neo-deployment-hosting-services-cli.md
 https://github.com/awsdocs/amazon-sagemaker-developer-guide/blob/master/doc_source/neo.md
+https://www.geeksforgeeks.org/writing-data-from-a-python-list-to-csv-row-wise/
 
+#### http://jrmeyer.github.io/machinelearning/2019/05/29/tensorflow-dataset-estimator-api.html
+
+https://www.tensorflow.org/tutorials/load_data/tfrecord
+https://www.programcreek.com/python/example/90550/tensorflow.decode_raw
+https://www.commonlounge.com/discussion/a50fc7fd60c7446ca6aada1b2c8060b8
+
+https://www.tensorflow.org/guide/eager
 
 
 ### AWS IoT Analyics:
@@ -237,4 +245,7 @@ https://docs.aws.amazon.com/greengrass/latest/developerguide/ml-inference.html#w
 https://docs.aws.amazon.com/greengrass/latest/developerguide/lambda-group-config.html
 
 #### https://youtu.be/uLz46loJaE0
+
+https://www.amazon.com/Cylewet-Encoder-15%C3%9716-5-Arduino-CYT1062/dp/B06XQTHDRR
+https://new.siemens.com/global/en/company/stories/industry/lifesaving-drones-designed-with-cad-software.html
 

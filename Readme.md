@@ -158,6 +158,9 @@ https://www.programcreek.com/python/example/90550/tensorflow.decode_raw
 https://www.commonlounge.com/discussion/a50fc7fd60c7446ca6aada1b2c8060b8
 
 https://www.tensorflow.org/guide/eager
+https://neo-ai-dlr.readthedocs.io/en/latest/dev/classdlr_1_1_d_l_r_model.html
+
+#### https://github.com/neo-ai/neo-ai-dlr/blob/master/tests/python/integration/load_and_run_tvm_model.py
 
 
 ### AWS IoT Analyics:

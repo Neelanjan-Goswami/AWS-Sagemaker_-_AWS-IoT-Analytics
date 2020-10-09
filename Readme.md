@@ -8,6 +8,8 @@
 
 ### AWS Sagemaker:
 
+#### https://github.com/awslabs/predictive-maintenance-using-machine-learning/tree/master/source/notebooks
+
 #### https://github.com/aws/amazon-sagemaker-examples
 
 https://www.hackster.io/psitron/personal-protective-body-camera-ppbc-9fc395

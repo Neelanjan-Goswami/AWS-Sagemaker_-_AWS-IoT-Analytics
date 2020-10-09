@@ -12,6 +12,8 @@
 
 #### https://github.com/aws/amazon-sagemaker-examples
 
+#### https://github.com/tensorflow/tensorflow/blob/r1.8/tensorflow/examples/get_started/regression/custom_regression.py
+
 https://www.hackster.io/psitron/personal-protective-body-camera-ppbc-9fc395
 https://aws.amazon.com/blogs/iot/using-aws-iot-for-predictive-maintenance/
 

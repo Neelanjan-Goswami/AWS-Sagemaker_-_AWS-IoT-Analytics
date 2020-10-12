@@ -166,6 +166,8 @@ https://neo-ai-dlr.readthedocs.io/en/latest/dev/classdlr_1_1_d_l_r_model.html
 
 #### https://github.com/neo-ai/neo-ai-dlr/blob/master/tests/python/integration/load_and_run_tvm_model.py
 
+https://www.tensorflow.org/tutorials/keras/regression
+
 
 ### AWS IoT Analyics:
 

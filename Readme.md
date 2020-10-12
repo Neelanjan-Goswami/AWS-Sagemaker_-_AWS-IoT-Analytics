@@ -168,6 +168,7 @@ https://neo-ai-dlr.readthedocs.io/en/latest/dev/classdlr_1_1_d_l_r_model.html
 
 https://www.tensorflow.org/tutorials/keras/regression
 
+#### https://github.com/ashishpatel26/Predictive_Maintenance_using_Machine-Learning_Microsoft_Casestudy
 
 ### AWS IoT Analyics:
 

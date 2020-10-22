@@ -277,3 +277,15 @@ https://docs.aws.amazon.com/greengrass/latest/developerguide/lambda-group-config
 https://www.amazon.com/Cylewet-Encoder-15%C3%9716-5-Arduino-CYT1062/dp/B06XQTHDRR
 https://new.siemens.com/global/en/company/stories/industry/lifesaving-drones-designed-with-cad-software.html
 
+https://www.digitalistmag.com/iot/2018/04/23/digital-twin-technology-transforming-mill-industry-06090500/
+I'm an Application Engineer here at Kepware. I'll try to help out with your query. Please follow this guide in setting OPC UA comms with Kepserver: https://www.kepware.com/getattachment/ccefc1a5-9b13-41e6-99d9-2b00cc85373e/opc-ua-client-server-easy-guide.pdf
+Regarding the Demo Timer, simply closing and then reopening the Kepserver will not be sufficient to overcome this. You would have to reset the demo timer by going to the following steps:
+Locate the green EX icon in the system tray (near windows clock)
+Right Click on the green EX icon and select Stop Runtime Process
+After runtime is stopped it will restart again automatically and in Kepserver you will received the following message: "Runtime connection lost, reconnect?" -> Select Yes
+You will received another message: "Update the runtime with the loaded project following connect?" - > Select Yes
+An additional window will appear asking for project saving. Select Yes or No depending on your needs.
+
+https://us-east-1.sumerian.aws/b0bbeaf5a3904d1f98a416864e598101.scene
+
+

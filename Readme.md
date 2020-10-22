@@ -170,6 +170,24 @@ https://www.tensorflow.org/tutorials/keras/regression
 
 #### https://github.com/ashishpatel26/Predictive_Maintenance_using_Machine-Learning_Microsoft_Casestudy
 
+https://www.tensorflow.org/tutorials/estimator/boosted_trees_model_understanding
+https://github.com/scikit-learn/scikit-learn/blob/0fb307bf3/sklearn/ensemble/_gb.py#L771
+https://towardsdatascience.com/building-a-decision-tree-in-tensorflow-742438cb483e
+
+https://github.com/aqibsaeed/Estimation-of-Remaining-Useful-Life-using-CNN/blob/master/Estimation%20of%20RUL%20using%20CNN.ipynb
+https://aws.amazon.com/blogs/machine-learning/deploy-trained-keras-or-tensorflow-models-using-amazon-sagemaker/
+https://www.pluralsight.com/guides/build-your-first-deep-learning-solution-with-aws-sagemaker
+
+https://www.tensorflow.org/tutorials/keras/save_and_load
+https://github.com/suriyadeepan/rnn-from-scratch
+https://github.com/LahiruJayasinghe/RUL-Net
+
+https://medium.com/machine-learning-algorithms/build-basic-rnn-cell-with-static-rnn-707f41d31ee1
+https://towardsdatascience.com/extreme-rare-event-classification-remaining-useful-life-estimation-using-lstm-in-keras-81c9b5aa15f0
+
+https://docs.google.com/presentation/d/1YPWKJQMP3dRdIcxcGblTacTFRH1STLdBR6aSMfq0KO4/edit?usp=sharing
+
+
 ### AWS IoT Analyics:
 
 #### https://workshop.industrial-architecture.cloud/setting-up-the-edge-device.html

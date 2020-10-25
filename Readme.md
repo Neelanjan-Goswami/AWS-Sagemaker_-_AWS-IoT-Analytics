@@ -186,6 +186,7 @@ https://medium.com/machine-learning-algorithms/build-basic-rnn-cell-with-static-
 https://towardsdatascience.com/extreme-rare-event-classification-remaining-useful-life-estimation-using-lstm-in-keras-81c9b5aa15f0
 
 https://docs.google.com/presentation/d/1YPWKJQMP3dRdIcxcGblTacTFRH1STLdBR6aSMfq0KO4/edit?usp=sharing
+https://docs.aws.amazon.com/sagemaker/latest/dg/neo-requests-sdk.html
 
 
 ### AWS IoT Analyics:

@@ -2,6 +2,8 @@
 
 #### https://workshop.industrial-architecture.cloud/overview.html
 
+Virtual exhibition:- https://us-east-1.sumerian.aws/b0bbeaf5a3904d1f98a416864e598101.scene 
+
 --Courtsey of Psitron Technologies
 
 ## Documentations of:-
@@ -286,7 +288,5 @@ Right Click on the green EX icon and select Stop Runtime Process
 After runtime is stopped it will restart again automatically and in Kepserver you will received the following message: "Runtime connection lost, reconnect?" -> Select Yes
 You will received another message: "Update the runtime with the loaded project following connect?" - > Select Yes
 An additional window will appear asking for project saving. Select Yes or No depending on your needs.
-
-https://us-east-1.sumerian.aws/b0bbeaf5a3904d1f98a416864e598101.scene
 
 

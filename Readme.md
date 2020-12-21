@@ -4,7 +4,7 @@
 
 Virtual exhibition:- https://us-east-1.sumerian.aws/b0bbeaf5a3904d1f98a416864e598101.scene 
 
---Courtsey of Psitron Technologies
+--Courtesy of Psitron Technologies
 
 ## Documentations of:-
 
